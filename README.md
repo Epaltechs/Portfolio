@@ -13,22 +13,39 @@ My personal portfolio that showcases few of my projects and web design capabilit
 ​
 To get a local copy up and running follow these simple example steps.
 ​
-## Authors
-​
-:bust_in_silhouette: **Author**
-- Emmnanuel Paul
-- GitHub: [epaltechs.github.io/Portfolio]
-- LinkedIn: [https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/]
-= Twitter: [http://twitter.com/@emmapaul247].
-​
+## Author
+
+👤 **Emmanuel Paul**
+
+- GitHub: (https://github.com/Epaltechs)
+- Twitter: [https://twitter.com/@emmapaul247]
+- LinkedIn: [https://www.linkedin.com/in/emmanuel-s-paul]
+- AngeList: [https://angel.co/u/emmanuel-s-paul]
+
 ## :handshake: Contributing
 ​
 Contributions, issues, and feature requests are welcome!
 ​
-## Contributors
--
+## Acknowlegments
+22
+🎩 I hail all those who have in one way or the other contributed to my progress in this journey so far!
+23
 ​
+24
+## 🤝 Contributing
+25
+​
+26
+Contributions, issues, and feature requests are welcome!
+27
+​
+28
+Feel free to check the [issues page](https://github.com/Epaltechs/Portfolio/issues).
+29
+​
+30
 ## Show your support
+31
 ​
-If you like this project you can support just by giving a like.
-Emmanuel Paul to Everyone (10:25)
+32
+Give a ⭐ anytime you like my project!
