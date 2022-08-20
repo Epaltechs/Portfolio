@@ -10,6 +10,7 @@ body {
 body::after {
   content: "";
   background-color:rgb(84, 211, 190);
+
   background-image: url('img/Flying Eagle.png');
   background-repeat: no-repeat;
   background-position: right -50vh top -50vh;
@@ -55,10 +56,12 @@ body::after {
 .carousel,
 .item,
 .active {
+  
   height:100%;
 }
 
 .carousel-inner {
+
   height:100%;
 }
 
