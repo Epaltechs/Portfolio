@@ -27,25 +27,16 @@ To get a local copy up and running follow these simple example steps.
 Contributions, issues, and feature requests are welcome!
 ​
 ## Acknowlegments
-22
+
 🎩 I hail all those who have in one way or the other contributed to my progress in this journey so far!
-23
 ​
-24
+
 ## 🤝 Contributing
-25
-​
-26
+
 Contributions, issues, and feature requests are welcome!
-27
-​
-28
+
 Feel free to check the [issues page](https://github.com/Epaltechs/Portfolio/issues).
-29
-​
-30
+
 ## Show your support
-31
-​
-32
+
 Give a ⭐ anytime you like my project!
