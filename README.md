@@ -9,7 +9,7 @@ My personal portfolio that showcases few of my projects and web design capabilit
 - Linters
 ​
 ## Deployment
-[Netlify](https://dancing-dusk-6643ef.netlify.app)
+[Netlify](https://epal-portfolio.netlify.app/)
 ​
 ## Getting Started
 ​
